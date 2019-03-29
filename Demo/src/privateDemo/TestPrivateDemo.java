@@ -1,4 +1,4 @@
-package ObjectOriented;
+package privateDemo;
 
 public class TestPrivateDemo {
 	public static void main(String[] arg0) {
