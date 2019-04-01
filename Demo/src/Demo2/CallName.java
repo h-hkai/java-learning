@@ -1,4 +1,4 @@
-package ExampleAndCase;
+package Demo2;
 
 import java.util.ArrayList;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package ExampleAndCase;
+package Demo2;
 
 
 public class StudentInformation {
