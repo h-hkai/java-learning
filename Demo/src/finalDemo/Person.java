@@ -7,6 +7,5 @@ public class Person {
 		super();
 		this.age = age;
 	}
-	
-	
+
 }
