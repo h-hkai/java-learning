@@ -1,7 +1,3 @@
-dabcdhello
-
-studycat
-
-a
-
-c
+d
+Hello World.
+Java.
