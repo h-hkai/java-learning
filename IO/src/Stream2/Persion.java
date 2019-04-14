@@ -6,6 +6,8 @@ public class Persion implements Serializable{
 	private String name;
 	private static int age;
 	
+	private static final long serialVersionUID = 14786532; 
+	
 	public Persion(String name, int age) {
 		this.name = name;
 		this.age = age;

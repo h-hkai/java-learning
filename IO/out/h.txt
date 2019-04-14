@@ -1,5 +1,1 @@
-#abc
-#Fri Apr 12 19:15:24 CST 2019
-name=Jerry
-age=31
-email=123456789@qq.com
+100
