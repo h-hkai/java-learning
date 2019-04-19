@@ -1,4 +1,4 @@
-package JDBCUtils;
+package QueryRunner;
 
 import java.io.InputStream;
 import java.sql.Connection;
